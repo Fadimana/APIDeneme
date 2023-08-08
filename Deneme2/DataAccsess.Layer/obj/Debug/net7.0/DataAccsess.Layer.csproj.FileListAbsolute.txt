@@ -1,0 +1,14 @@
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.AssemblyInfo.cs
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\bin\Debug\net7.0\DataAccsess.Layer.deps.json
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\bin\Debug\net7.0\DataAccsess.Layer.runtimeconfig.json
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\bin\Debug\net7.0\DataAccsess.Layer.dll
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\bin\Debug\net7.0\DataAccsess.Layer.pdb
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.dll
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\refint\DataAccsess.Layer.dll
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.pdb
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\DataAccsess.Layer.genruntimeconfig.cache
+C:\Users\mm\source\repos\Deneme2\DataAccsess.Layer\obj\Debug\net7.0\ref\DataAccsess.Layer.dll
